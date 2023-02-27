@@ -1,7 +1,3 @@
-### Links :link:
-
-- :link: [LinkedIn](www.linkedin.com/in/caleb-evans-059641155)
-
 ### Professional :briefcase:
 
 - :office: A Red Hatter since October of 2022
@@ -19,3 +15,7 @@
 - :baseball: Recently a big fan of baseball
 - :smile: My pronouns are he/him
 - :sunflower: I'm autistic
+
+### Links :link:
+
+- :link: [LinkedIn](www.linkedin.com/in/caleb-evans-059641155)
