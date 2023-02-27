@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A quick-learner with a passion for technology and automation.
+
+- :link: [LinkedIn](www.linkedin.com/in/caleb-evans-059641155)
+- 
