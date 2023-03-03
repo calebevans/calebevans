@@ -15,7 +15,3 @@
 - :baseball: Recently a big fan of baseball
 - :smile: My pronouns are he/him
 - :sunflower: I'm autistic
-
-### Links :link:
-
-- :link: [LinkedIn](www.linkedin.com/in/caleb-evans-059641155)
