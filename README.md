@@ -7,7 +7,7 @@
 ### Fun Facts/Other Stuff :relaxed:
 
 - :house_with_garden: I live in Ogden, Utah with my wife, Mathilda
-- :dog: I have two beautiful dogs
+- :dog: My two dogs, Elenore and Leia, are my best friends
 - :skull::rose: Big Deadhead
 - :evergreen_tree: I love the outdoors
 - :mushroom: Studying mycology is a favorite pastime of mine
