@@ -12,6 +12,6 @@
 - :evergreen_tree: I love the outdoors
 - :mushroom: Studying mycology is a favorite pastime of mine
 - :airplane: I am an airplane enthusiast... but I don't like traveling
-- :baseball: Recently a big fan of baseball
-- :smile: My pronouns are he/him
+- :baseball: Big baseball fan
+- :relaxed: My pronouns are he/him
 - :sunflower: I'm autistic
