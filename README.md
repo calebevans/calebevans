@@ -12,5 +12,4 @@
 - :mushroom: Studying mycology is a favorite pastime of mine
 - :airplane: I am an airplane enthusiast... but I don't like traveling
 - :baseball: Big baseball fan
-- :relaxed: My pronouns are he/him
 - :sunflower: I'm autistic
