@@ -7,7 +7,7 @@
 ### Fun Facts/Other Stuff :grimacing:
 
 - :dog: My two dogs, Elenore and Leia, are my best friends
-- :skull::rose: Big Deadhead
+- :skull::rose: Deadhead
 - :evergreen_tree: I love the outdoors
 - :airplane: Airplane enthusiast
 - :baseball: Big baseball fan
