@@ -13,8 +13,3 @@
 - :baseball: Baseball fan
 - :bow: Yogi
 - :sunflower: Autistic
-
-### Statistics :bar_chart:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=calebevans)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebevans)](https://github.com/anuraghazra/github-readme-stats)
