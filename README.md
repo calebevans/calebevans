@@ -14,6 +14,3 @@
 - :bow: Yogi
 - :sunflower: Autistic
 
-### Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=calebevans&theme=github"/>
