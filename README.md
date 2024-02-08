@@ -6,7 +6,6 @@
 
 ### Fun Facts :grimacing:
 
-- :dog: Elenore and Leia
 - :skull::rose: Deadhead
 - :evergreen_tree: I love the outdoors
 - :airplane: Airplane enthusiast
