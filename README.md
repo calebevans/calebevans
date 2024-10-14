@@ -10,5 +10,3 @@
 - :evergreen_tree: I love the outdoors
 - :airplane: Airplane enthusiast
 - :baseball: Baseball fan
-- :sunflower: Autistic
-
