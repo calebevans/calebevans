@@ -7,6 +7,5 @@
 ### Fun Facts :grimacing:
 
 - :skull::rose: Deadhead
-- :evergreen_tree: I love the outdoors
-- :airplane: Airplane enthusiast
 - :baseball: Baseball fan
+- :airplane: Airplane enthusiast
