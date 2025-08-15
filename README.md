@@ -15,4 +15,4 @@ Senior Software Quality Engineer at Red Hat, focused on automation, cloud-native
 - **Firewatch**: An open-source utility that scans CI/CD job artifacts and automatically opens, de-duplicates, and cross-links Jira issues for failed runs.
 
 ### Writing
-- **Red Hat Developer Blog:** How to simplify your multi-repo workflow with Podman
+- **Red Hat Developer Blog:** [How to simplify your multi-repo workflow with Podman](https://developers.redhat.com/articles/2025/05/28/how-simplify-your-multi-repo-workflow-podman)
