@@ -11,6 +11,7 @@ Senior Software Quality Engineer at Red Hat, focused on automation, cloud-native
 - **B.S., Network Management Technology** | Weber State University 
 
 ### Open-Source Projects
+- **Cordon**: A semantic anomaly detection tool for logs that uses transformer embeddings to filter out repetitive patterns and surface unusual events. Designed to reduce massive log files down to their most anomalous sections before LLM analysis.
 - **Podmortem**: A Kubernetes operator I designed for automated failure triage. It preprocesses logs to reduce LLM compute costs and generates prioritized summaries to shorten triage time.
 - **Firewatch**: An open-source utility that scans CI/CD job artifacts and automatically opens, de-duplicates, and cross-links Jira issues for failed runs.
 
