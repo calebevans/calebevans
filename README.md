@@ -17,5 +17,4 @@ Senior Software Quality Engineer at Red Hat, focused on automation, cloud-native
 
 ### Writing
 - **Red Hat Developer Blog:** [Semantic anomaly detection in log files with Cordon](https://developers.redhat.com/articles/2025/12/09/semantic-anomaly-detection-log-files-cordon)
-- **Red Hat Developer Blog:** [Your LLM is too large: How I generate production-ready failure analysis on a toaster](https://developers.redhat.com/articles/2025/09/02/your-llm-too-large-how-i-generate-production-ready-failure-analysis-toaster)
 - **Red Hat Developer Blog:** [How to simplify your multi-repo workflow with Podman](https://developers.redhat.com/articles/2025/05/28/how-simplify-your-multi-repo-workflow-podman)
