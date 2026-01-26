@@ -11,9 +11,8 @@ Senior Software Quality Engineer at Red Hat, focused on automation, cloud-native
 - **B.S., Network Management Technology** | Weber State University 
 
 ### Open-Source Projects
-- **Cordon**: A semantic anomaly detection tool for logs that uses transformer embeddings to filter out repetitive patterns and surface unusual events. Designed to reduce massive log files down to their most anomalous sections before LLM analysis.
-- **Podmortem**: A Kubernetes operator I designed for automated failure triage. It preprocesses logs to reduce LLM compute costs and generates prioritized summaries to shorten triage time.
-- **Firewatch**: An open-source utility that scans CI/CD job artifacts and automatically opens, de-duplicates, and cross-links Jira issues for failed runs.
+- [**Cordon**](https://github.com/calebevans/cordon): A semantic anomaly detection tool for logs that uses transformer embeddings to filter out repetitive patterns and surface unusual events. Designed to reduce massive log files down to their most anomalous sections before LLM analysis.
+- [**GitHub Actions Failure Analysis**](https://github.com/marketplace/actions/github-actions-failure-analysis): An AI-powered GitHub Actions workflow failure analyzer that uses semantic log preprocessing (via Cordon) and LLMs to automatically generate root cause analysis reports. The tool correlates failures with PR changes, intelligently groups similar failures, and posts detailed analysis as PR comments—helping teams quickly understand and resolve CI/CD failures without manually sifting through logs.
 
 ### Writing
 - **Red Hat Developer Blog:** [Semantic anomaly detection in log files with Cordon](https://developers.redhat.com/articles/2025/12/09/semantic-anomaly-detection-log-files-cordon)
