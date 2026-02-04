@@ -1,9 +1,9 @@
-Senior Software Quality Engineer at Red Hat, focused on automation, cloud-native technologies, and open-source development.
+Senior Software Engineer at Red Hat, focused on automation, cloud-native technologies, and open-source development.
 
 ### Professional Snapshot
-- **Red Hat** | Senior Software Quality Engineer | Oct 2024 - Present 
+- **Red Hat** | Senior Software Engineer | Oct 2024 - Present 
 
-- **Red Hat** | Software Quality Engineer | Oct 2022 - Oct 2024 
+- **Red Hat** | Software Engineer | Oct 2022 - Oct 2024 
 
 - **Exact Sciences** | Automation Engineer II | Jun 2022 - Oct 2022 
 
